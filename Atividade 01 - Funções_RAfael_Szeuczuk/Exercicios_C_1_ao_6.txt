@@ -1,0 +1,16 @@
+Nome: Rafael Szeuczuk André
+
+C.	Explique, com suas palavras, os conceitos/significados dos seguintes termos:
+ 1. Funções:
+		"Divisões" do código que fazem algo em especifico, o deixando mais legível.
+ 2. Argumentos/Parâmetros:
+		Argumentos são valores passados para a função e parâmetros são as variáveis da função que recebem esses valores.
+ 3. Tipos de funções:
+		Funções: Retornam algo;
+		Procedimento: Não retorna nada.
+ 4. void:
+		Variável "vazia", usada em procedimentos;
+ 5. Tipos de passagem de parâmetro (qual o padrão do C/C++?):
+		O valor é passado a função, e é retornado o que a função manda.
+ 6. Retorno de uma função (quais os tipos de retorno?)
+	Inteiro, Números que são pontos flutuantes
